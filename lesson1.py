@@ -1,7 +1,7 @@
 from turtle import *
 
 #we want to paint house
-#speed(100)
+speed(100)
 
 width(7)
 color("brown")
@@ -36,7 +36,6 @@ end_fill()
 penup()
 goto(200, 200)
 pendown()
-#saxuravu
 color("red")
 begin_fill()
 right(150)
