@@ -36,7 +36,10 @@ end_fill()
 penup()
 goto(200, 200)
 pendown()
+<<<<<<< HEAD:homework/lesson1.py
 
+=======
+>>>>>>> bcb4f3ae8939d7b8a39042aab90af05fa6faf753:lesson1.py
 color("red")
 begin_fill()
 right(150)
